@@ -10,4 +10,7 @@ accuracy and cost provided the reference genome is available (debatable).
 
 This boot camp is focused on this aspect. We use the model plant Arabidopsis as the organism of choice. Reasons - smaller genome compared to other sequenced plants. Availability of many datasets and a well annotated genome.
 
-For the purpose of hands on experience and learning new things, we use the actual dataset from the NCBI. https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP159482
+For the purpose of hands on experience and learning new things, we use the actual dataset from the NCBI. The SRA study [SRP159482] (https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP159482) is a RNA-Seq study with a wild type and a mutant with 3 biological replicates each. **Best Practice**
+
+
+[Summary of RNA-Seq](https://en.wikipedia.org/wiki/File:Summary_of_RNA-Seq.svg)
