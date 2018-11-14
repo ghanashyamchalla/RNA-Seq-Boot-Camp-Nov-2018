@@ -13,4 +13,11 @@ This boot camp is focused on this aspect. We use the model plant Arabidopsis as 
 For the purpose of hands on experience and learning new things, we use the actual dataset from the NCBI. The SRA study [SRP159482] (https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP159482) is a RNA-Seq study with a wild type and a mutant with 3 biological replicates each. **Best Practice**
 
 
-[Summary of RNA-Seq](https://en.wikipedia.org/wiki/File:Summary_of_RNA-Seq.svg)
+We will follow the protocol from this [paper] (https://www.nature.com/articles/nprot.2016.095.pdf) for the most part of it.
+
+Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown.
+Mihaela Pertea, Daehwan Kim, Geo M Pertea, Jeffrey T Leek & Steven L Salzberg.
+Nature Protocols volume 11, pages 1650–1667 (2016).
+
+Don't worry we will walk you through the protocol.
+
